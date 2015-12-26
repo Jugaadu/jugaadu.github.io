@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Julia
+  url: /julia.md
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: julia.jpg
+  
+- title: About
+  url: /about/
+  excerpt: "About Swapan."
+  image: pic2.jpg
+  
